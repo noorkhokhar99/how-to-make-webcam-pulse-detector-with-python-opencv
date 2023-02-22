@@ -9,11 +9,11 @@ A python application that detects and highlights the heart-rate of an individual
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/motion-heatmap-opencv.git
+git clone https://github.com/noorkhokhar99/how-to-make-webcam-pulse-detector-with-python-opencv.git
 ```
 - Goto the cloned folder.
 ```
-cd motion-heatmap-opencv
+cd how-to-make-webcam-pulse-detector-with-python-opencv
 
 ```
 - Upgrade pip with mentioned command below.
