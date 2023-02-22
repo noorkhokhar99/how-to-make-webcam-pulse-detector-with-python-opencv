@@ -27,7 +27,8 @@ pip install -r requirements.txt
 `python filename.py`
 
 
-<video src="https://github.com/noorkhokhar99/how-to-make-webcam-pulse-detector-with-python-opencv/blob/main/how%20to%20make%20webcam%20pulse%20detector%20with%20python%20opencv.mp4"></video>
+<video src="https://user-images.githubusercontent.com/34125851/220516075-2c7608fe-f47b-4bde-9863-19a1fe83b1ad.mp4
+"></video>
 
 
 
