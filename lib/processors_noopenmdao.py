@@ -204,6 +204,12 @@ class findFaceGetPulse(object):
             pfreq = freqs[idx]
             self.freqs = pfreq
             self.fft = pruned
+
+            if pruned.size == 0:
+                # Handle the case where pruned is empty
+                print("No valid frequency components found.")
+                return
+
             idx2 = np.argmax(pruned)
 
             t = (np.sin(phase[idx2]) + 1.) / 2.
